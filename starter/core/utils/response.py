@@ -1,6 +1,6 @@
 __author__ = 'tigra'
 
-from flask.helpers import json
+from flask import json
 from flask.wrappers import Response
 
 __author__ = 'tigra'
